@@ -11,3 +11,14 @@ box-sizing: border-box;
     grid-auto-rows: 1fr;
     margin: 50px auto;
 }
+.searchbar{
+    display: flex;
+    flex-direction: column;
+}
+#search{
+    align-self: center;
+    width: 45%;
+    max-width: 525px;
+    padding: 15px 10px;
+    border-radius: 7.5px;
+}
