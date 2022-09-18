@@ -1,6 +1,9 @@
 *{
 box-sizing: border-box;
 }
+a{
+    margin: auto;
+}
 
 .gallery{
     max-width: 875px;
